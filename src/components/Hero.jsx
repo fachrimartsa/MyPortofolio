@@ -1,4 +1,5 @@
 import React from 'react';
+import profile from '../assets/images/profile.jpeg';
 
 const Hero = () => {
   return (
@@ -12,10 +13,10 @@ const Hero = () => {
           <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-cyan-200">
             Junior Fullstack Developer
           </h2>
-          <p className="text-lg mb-8 text-gray-300 max-w-lg">
-            Crafting digital experiences with cutting-edge tech. 
-            Passionate about building efficient, scalable, and visually stunning applications.
-          </p>
+          <p className="text-lg mb-8 text-cyan-100 max-w-lg">
+            Creating functional web applications using modern frameworks. 
+            Focused on writing efficient code and improving through hands-on experience.
+          </p> 
           <div className="flex flex-wrap gap-4 justify-center md:justify-start">
             <a 
               href="#contact" 
@@ -36,17 +37,22 @@ const Hero = () => {
         <div className="md:w-1/2 flex justify-center relative">
           <div className="relative">
             <div className="w-72 h-72 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-cyan-400/20 shadow-2xl">
-              {/* Replace with your actual image */}
-              <div className="w-full h-full bg-gradient-to-br from-purple-500 to-cyan-500 flex items-center justify-center">
-                <span className="text-4xl text-white font-bold">FM</span>
-              </div>
+              {/* Ganti span dengan tag img */}
+              <img 
+                src={profile} 
+                alt="Fachri Martsa"
+                className="w-full h-full object-cover"
+              />
             </div>
-            {/* Floating tech icons around avatar */}
+            {/* Floating tech icons tetap sama */}
             <div className="absolute -top-6 -left-6 w-16 h-16 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center border border-cyan-400/20">
               <span className="text-2xl">🚀</span>
             </div>
             <div className="absolute -bottom-4 -right-4 w-14 h-14 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center border border-purple-400/20">
               <span className="text-xl">💻</span>
+            </div>
+            <div className="absolute -top-6 -right-16 w-16 h-16 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center border border-cyan-400/20">
+              <span className="text-2xl">🚀</span>
             </div>
           </div>
         </div>

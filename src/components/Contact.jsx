@@ -130,7 +130,7 @@ const Contact = () => {
                   >
                     <FaLinkedin size={20} />
                   </a>
-                  <a 
+                  {/* <a 
                     href="https://github.com" 
                     target="_blank" 
                     rel="noopener noreferrer"
@@ -145,7 +145,7 @@ const Contact = () => {
                     className="p-3 rounded-full bg-cyan-400/10 hover:bg-cyan-400/20 border border-cyan-400/20 hover:border-cyan-400/40 transition-all text-cyan-400 hover:text-white"
                   >
                     <FaTwitter size={20} />
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>

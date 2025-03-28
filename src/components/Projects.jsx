@@ -9,7 +9,7 @@ const Projects = () => {
     {
       title: "Payroll Management System",
       description: "Sistem penggajian karyawan dengan fitur lengkap",
-      technologies: ["Laravel", "React.js", "MySQL", "Tailwind CSS"],
+      technologies: ["C# Windows Form", "Java FX", "SQL Server"],
       githubLink: "#",
       liveLink: "#",
       image: pms
@@ -17,7 +17,7 @@ const Projects = () => {
     {
       title: "Battery Monitoring System",
       description: "Monitoring baterai real-time dengan .NET Core",
-      technologies: [".NET Core", "Angular", "SQL Server", "Bootstrap"],
+      technologies: ["ReactJs","ASP.NET Core", "Laravel", "SQL Server", "MySQL"],
       githubLink: "#",
       liveLink: "#",
       image: pms
@@ -25,26 +25,10 @@ const Projects = () => {
     {
       title: "Car AC Service System",
       description: "Manajemen servis AC mobil bengkel",
-      technologies: ["Spring Boot", "React.js", "PostgreSQL", "Tailwind CSS"],
+      technologies: ["ReactJs", "PHP", "Sql Server"],
       githubLink: "#",
       liveLink: "#",
       image: mjl
-    },
-    {
-      title: "Inventory Management",
-      description: "Sistem manajemen inventori online",
-      technologies: ["Node.js", "Vue.js", "MongoDB"],
-      githubLink: "#",
-      liveLink: "#",
-      image: mjl
-    },
-    {
-      title: "E-commerce Platform",
-      description: "Toko online dengan integrasi pembayaran",
-      technologies: ["Laravel", "React.js", "MySQL"],
-      githubLink: "#",
-      liveLink: "#",
-      image: pms
     }
   ];
 
@@ -126,24 +110,6 @@ const Projects = () => {
                         {tech}
                       </span>
                     ))}
-                  </div>
-                  <div className="flex space-x-4">
-                    <a 
-                      href={project.githubLink} 
-                      className="text-cyan-300 hover:text-white transition flex items-center hover:bg-cyan-400/10 px-3 py-1 rounded-lg"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaGithub className="mr-2" /> Code
-                    </a>
-                    <a 
-                      href={project.liveLink} 
-                      className="text-cyan-300 hover:text-white transition flex items-center hover:bg-cyan-400/10 px-3 py-1 rounded-lg"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaExternalLinkAlt className="mr-2" /> Live Demo
-                    </a>
                   </div>
                 </div>
               </motion.div>

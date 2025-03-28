@@ -5,7 +5,7 @@ import { motion, useInView } from 'framer-motion';
 
 const Skills = () => {
   const sectionRef = useRef(null);
-  const isInView = useInView(sectionRef, { once: false, amount: 0.5 });
+  const isInView = useInView(sectionRef, { once: false, amount: 0.3 });
 
   const languages = [
     { name: 'C Programming', icon: <SiC className="text-cyan-400" size={40} /> },
@@ -42,7 +42,7 @@ const Skills = () => {
       y: 0,
       opacity: 1,
       transition: {
-        duration: 0.5
+        duration: 0.6
       }
     }
   };
