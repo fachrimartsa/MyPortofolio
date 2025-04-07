@@ -8,6 +8,7 @@ const Contact = () => {
     email: '',
     message: ''
   });
+  const [isLoading, setIsLoading] = useState();
 
   const handleChange = (e) => {
     const { name, value } = e.target;
