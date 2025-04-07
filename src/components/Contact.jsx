@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { FaLinkedin, FaGithub, FaTwitter, FaEnvelope, FaPhone } from 'react-icons/fa';
+import emailjs from 'emailjs-com';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -18,13 +19,29 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission
-    console.log(formData);
-    alert('Message sent successfully!');
-    setFormData({
-      name: '',
-      email: '',
-      message: ''
+    setIsLoading(true);
+
+    // Ganti dengan ID service, template, dan user Anda dari EmailJS
+    emailjs.send(
+      'service_ffu21dz', // SERVICE ID
+      'template_m38l0ok', // TEMPLATE ID
+      formData,
+      'awPheJV2CasusV7O2' // USER ID
+    )
+    .then((response) => {
+      alert('Message sent successfully!');
+      setFormData({
+        name: '',
+        email: '',
+        message: ''
+      });
+    })
+    .catch((error) => {
+      alert('Failed to send message. Please try again later.');
+      console.error('EmailJS Error:', error);
+    })
+    .finally(() => {
+      setIsLoading(false);
     });
   };
 
