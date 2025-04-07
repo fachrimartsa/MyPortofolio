@@ -3,6 +3,7 @@ import { FaGithub, FaExternalLinkAlt, FaChevronLeft, FaChevronRight } from 'reac
 import { motion } from 'framer-motion';
 import pms from '../assets/images/pms.png';
 import mjl from '../assets/images/MJL.png';
+import bms from '../assets/images/Dok3.png';
 
 const Projects = () => {
   const allProjects = [
@@ -20,7 +21,7 @@ const Projects = () => {
       technologies: ["ReactJs","ASP.NET Core", "Laravel", "SQL Server", "MySQL"],
       githubLink: "#",
       liveLink: "#",
-      image: pms
+      image: bms
     },
     {
       title: "Car AC Service System",
@@ -91,7 +92,7 @@ const Projects = () => {
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 className="bg-white/5 rounded-xl border border-cyan-400/20 hover:border-cyan-400/40 shadow-lg hover:shadow-cyan-500/20 transition-all backdrop-blur-sm"
               >
-                <div className="h-60 overflow-hidden">
+                <div className="h-56 overflow-hidden">
                   <img 
                     src={project.image} 
                     alt={project.title} 
