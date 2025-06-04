@@ -29,7 +29,7 @@ const Contact = () => {
 
     const loadAskData = async () => {
       try {
-        const response = await fetch('MyPortofolio/ask.json');
+        const response = await fetch('/ask.json');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
