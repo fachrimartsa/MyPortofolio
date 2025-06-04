@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Siapa nama lengkap pemilik website ini?",
+    "answer": "Nama lengkap pemilik website ini adalah Fachri Martsa."
+  },
+  {
+    "question": "Apa latar belakang pendidikan Fachri Martsa?",
+    "answer": "Fachri Martsa adalah mahasiswa Manajemen Informatika di Politeknik Astra."
+  },
+  {
+    "question": "Apa hobi Fachri Martsa?",
+    "answer": "Hobi Fachri adalah coding atau pemrograman karena dianggap sebagai cara untuk menghilangkan stres dan mengasah logika."
+  },
+  {
+    "question": "Apa cita-cita Fachri Martsa?",
+    "answer": "Cita-cita Fachri adalah bekerja di perusahaan besar dengan gaji tinggi, demi membahagiakan orang tua dan menabung untuk masa depan."
+  },
+  {
+    "question": "Apa pencapaian terbesar Fachri Martsa?",
+    "answer": "Pencapaian terbesar Fachri adalah berhasil kuliah di Politeknik Astra dengan beasiswa penuh hingga lulus."
+  },
+  {
+    "question": "Apa proyek terbaru yang dikerjakan oleh Fachri Martsa?",
+    "answer": "Fachri sedang mengembangkan aplikasi web untuk memantau pengisian, pengujian, dan penyimpanan baterai kendaraan listrik."
+  },
+  {
+    "question": "Apa teknologi yang digunakan Fachri dalam proyeknya?",
+    "answer": "Fachri menggunakan stack web berbasis model-controller-view (MVC) serta database MySQL."
+  },
+  {
+    "question": "Bagaimana cara menghubungi Fachri Martsa?",
+    "answer": "Fachri dapat dihubungi melalui email di martsafachri@gmail.com atau telepon di (+62) 8952-5428-086."
+  },
+  {
+    "question": "Apakah Fachri menerima proyek freelance?",
+    "answer": "Ya, Fachri terbuka untuk proyek freelance dan bersedia berdiskusi mengenai kebutuhan Anda."
+  },
+  {
+    "question": "Apa framework yang dikuasai oleh Fachri Martsa?",
+    "answer": "Fachri menguasai framework seperti React dan styling dengan Tailwind CSS."
+  },
+  {
+    "question": "Apa bahasa pemrograman favorit Fachri Martsa?",
+    "answer": "Fachri menyukai JavaScript dan PHP karena fleksibilitasnya dalam pengembangan web."
+  },
+  {
+    "question": "Apakah Fachri Martsa pernah menggunakan JavaFX?",
+    "answer": "Ya, Fachri menggunakan JavaFX dalam proyek berbasis desktop dengan Java."
+  },
+  {
+    "question": "Apakah Fachri Martsa pernah menggunakan JasperReports?",
+    "answer": "Ya, Fachri memanfaatkannya untuk membuat laporan penggajian dalam aplikasi."
+  },
+  {
+    "question": "Apa motivasi Fachri Martsa untuk sukses?",
+    "answer": "Motivasi Fachri adalah keinginan untuk membahagiakan orang tua dan menjadi mandiri secara finansial."
+  },
+  {
+    "question": "Apa arti keluarga bagi Fachri Martsa?",
+    "answer": "Keluarga adalah alasan utama Fachri untuk terus semangat dan berjuang."
+  },
+  {
+    "question": "Apakah Fachri Martsa aktif di organisasi?",
+    "answer": "Ya, Fachri menjabat sebagai Wakil Ketua Himpunan Mahasiswa Manajemen Informatika."
+  },
+  {
+    "question": "Sampai kapan Fachri menjabat sebagai Wakil Ketua?",
+    "answer": "Masa jabatan Fachri sebagai Wakil Ketua akan berakhir dalam 3 bulan lagi."
+  },
+  {
+    "question": "Fachri Martsa lulusan SMA mana?",
+    "answer": "Fachri adalah lulusan SMAN 13 Jakarta, salah satu SMA terbaik di Jakarta Utara."
+  },
+  {
+    "question": "Berapa usia Fachri Martsa sekarang?",
+    "answer": "Per Juni 2025, Fachri berusia 21 tahun."
+  },
+  {
+    "question": "Apa zodiak Fachri Martsa?",
+    "answer": "Zodiak Fachri adalah Gemini."
+  },
+  {
+    "question": "Apa sifat dari Fachri Martsa?",
+    "answer": "Fachri dikenal sebagai pribadi yang tekun, ambisius, dan senang belajar hal baru di bidang teknologi."
+  },
+  {
+    "question": "Mengapa Fachri Martsa tertarik pada dunia teknologi?",
+    "answer": "Karena Fachri menyukai tantangan logika dan senang menciptakan solusi nyata melalui teknologi."
+  },
+  {
+    "question": "Apakah Fachri menyukai seseorang saat ini?",
+    "answer": "Ya, menurut pengakuannya, Fachri memiliki seseorang yang sedang ia sukai."
+  },
+  {
+    "question": "Apa keahlian utama Fachri Martsa?",
+    "answer": "Keahlian Fachri adalah di bidang pengembangan web, khususnya menggunakan React dan Tailwind CSS."
+  },
+  {
+    "question": "Bagaimana cara menghubungi pemilik website ini?",
+    "answer": "Anda bisa menghubungi Fachri melalui email di martsafachri@gmail.com atau telepon di (+62) 8952-5428-086."
+  },
+  {
+    "question": "Apakah Fachri menerima proyek freelance?",
+    "answer": "Ya, Fachri sangat terbuka untuk proyek freelance. Silakan hubungi untuk mendiskusikan kebutuhan Anda."
+  },
+  {
+    "question": "Apa saja proyek yang pernah dikerjakan oleh Fachri Martsa?",
+    "answer": "Fachri telah mengerjakan berbagai proyek, termasuk aplikasi web untuk pemantauan baterai kendaraan listrik dan sistem laporan penggajian menggunakan JasperReports."
+  },
+  {
+    "question": "Bagaimana Fachri Martsa menangani autentikasi di websitenya?",
+    "answer": "Autentikasi dilakukan melalui validasi username dan password dari tabel karyawan, dan login disimpan dengan cookie."
+  },
+  {
+    "question": "Apa peran 'NO UNIT' dalam proyek Fachri?",
+    "answer": "'NO UNIT' adalah identitas kartu karyawan yang digunakan saat transaksi pengisian daya."
+  },
+  {
+    "question": "Bagaimana Fachri Martsa menyesuaikan hak akses pengguna setelah login?",
+    "answer": "Fachri memeriksa 'hak_akses' dan mengarahkan pengguna ke halaman yang sesuai: Admin ke Jenis Produk, Staf Penjualan ke Produk, dan Staf Pengadaan ke Vendor."
+  },
+  {
+    "question": "Apa yang dipelajari di jurusan Manajemen Informatika?",
+    "answer": "Di jurusan ini, Fachri belajar tentang pemrograman, basis data, analisis sistem, serta pengembangan aplikasi web dan mobile."
+  },
+  {
+    "question": "Apakah Fachri Martsa menggunakan React?",
+    "answer": "Ya, Fachri menggunakan React sebagai framework front-end dalam beberapa proyeknya."
+  },
+  {
+    "question": "Apakah Fachri pernah menggunakan JavaFX?",
+    "answer": "Pernah, Fachri menggunakan JavaFX dalam proyek berbasis desktop dengan Java."
+  },
+  {
+    "question": "Apakah Fachri pernah menggunakan JasperReports?",
+    "answer": "Ya, Fachri memanfaatkannya untuk membuat laporan penggajian dalam aplikasi."
+  },
+  {
+    "question": "Apa motivasi Fachri Martsa untuk sukses?",
+    "answer": "Motivasinya adalah keinginan untuk membahagiakan orang tua dan menjadi mandiri secara finansial."
+  },
+  {
+    "question": "Apa arti keluarga bagi Fachri?",
+    "answer": "Keluarga adalah alasan utama Fachri untuk terus semangat dan berjuang."
+  },
+  {
+    "question": "Apakah Fachri Martsa aktif di organisasi?",
+    "answer": "Ya, ia menjabat sebagai Wakil Ketua Himpunan Mahasiswa Manajemen Informatika."
+  },
+  {
+    "question": "Sampai kapan Fachri menjabat sebagai Wakil Ketua?",
+    "answer": "Masa jabatannya sebagai Wakil Ketua akan berakhir dalam 3 bulan lagi."
+  },
+  {
+    "question": "Fachri Martsa lulusan SMA mana?",
+    "answer": "Fachri adalah lulusan SMAN 13 Jakarta, salah satu SMA terbaik di Jakarta Utara."
+  },
+  {
+    "question": "Berapa usia Fachri Martsa sekarang?",
+    "answer": "Per Juni 2025, Fachri berusia 21 tahun."
+  },
+  {
+    "question": "Apa zodiak Fachri Martsa?",
+    "answer": "Zodiaknya adalah Gemini."
+  },
+  {
+    "question": "Apa sifat dari Fachri Martsa?",
+    "answer": "Ia dikenal sebagai pribadi yang tekun, ambisius, dan senang belajar hal baru di bidang teknologi."
+  },
+  {
+    "question": "Mengapa Fachri Martsa tertarik pada dunia teknologi?",
+    "answer": "Karena ia menyukai tantangan logika dan senang menciptakan solusi nyata melalui teknologi."
+  },
+  {
+    "question": "Apakah Fachri menyukai seseorang saat ini?",
+    "answer": "Ya, menurut pengakuannya, ia memiliki seseorang yang sedang ia sukai."
+  },
+  {
+    "question": "Apa keahlian utama Fachri Martsa?",
+    "answer": "Keahliannya adalah di bidang pengembangan web, khususnya menggunakan React dan Tailwind CSS."
+  },
+  {
+    "question": "Framework apa yang dikuasai Fachri?",
+    "answer": "Fachri menguasai framework seperti React dan styling dengan Tailwind CSS."
+  },
+  {
+    "question": "Bagaimana cara menghubungi Fachri Martsa?",
+    "answer": "Fachri dapat dihubungi melalui email di martsafachri@gmail.com atau telepon di (+62) 8952-5428-086."
+  },
+  {
+    "question": "Apakah Fachri menerima proyek freelance?",
+    "answer": "Ya, ia terbuka untuk proyek freelance dan bersedia berdiskusi mengenai kebutuhan Anda."
+  }
+]
